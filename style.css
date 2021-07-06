@@ -1,0 +1,109 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.banner1{
+    background-color: #E6E6E6;
+}
+.banner2{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 24px;
+}
+
+ .btn-next{
+    text-decoration: none;
+    padding: 6px 12px;
+    border: solid rgb(125, 125, 133) 1px;
+    border-radius: 25px;
+    font-size: 16px;
+    color:black;
+    background-color:goldenrod;
+}
+/* //////////////////////////////////////////////////  */
+
+.banner5{
+    display: flex;
+   background-image: url(images/7.png); 
+   margin-top: 80px; 
+   padding-top: 100px;
+   
+}
+
+.width-half{
+    padding: 100px 60px 20px 10px;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.btn-next1{
+    text-decoration: none;
+    padding: 6px 12px;
+    border: solid rgb(125, 125, 133) 1px;
+    border-radius: 25px;
+    font-size: 16px;
+    color:black;
+    background-color:goldenrod;
+
+}
+/* /////////////////////////////// */
+
+.artist{
+    text-align: center;
+}
+.galleryx{
+    display: flex;
+    width: 100%;
+}
+.portion{
+    margin:20px;
+    color:white;
+    border: 1px solid #F1F1F1;
+    border-radius: 50px;
+    }
+.future-img{
+    width: 100%;
+    margin: 15px;
+
+}
+.future-text h1{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 20px;
+}
+.future-text p{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px;
+}
+
+.portion img{
+    width: 100%;
+    text-align: center;
+}
+/* /////////////////////////////////// */
+
+.price-box{
+    display: flex;
+    text-align: center;
+    
+}
+
+/* //////////////////////////////////////////// */
+.blueman{
+    background-color: #0B0D17;
+    height: 40vh;
+    text-align: center;
+    color: cornsilk;
+    margin-top: 25px;
+    padding: 25px;
+}
+/* ////////////////////the end//////////////////// */
